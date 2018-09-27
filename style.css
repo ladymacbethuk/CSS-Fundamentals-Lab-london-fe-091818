@@ -36,3 +36,7 @@ figcaption {
 footer {
   text-align: horizontal; 
 }
+
+div {
+  background-color: red;
+}
