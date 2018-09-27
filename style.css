@@ -1,5 +1,34 @@
+/*
+h1 {
+  color: red;
+}
+*/
+
+h1 {
+  text-align: center;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+nav {
+  text-align: center; 
+}
+a {
+  padding: 10px; background-color: grey
+}
+
+#featured-property {
+  align-items: center;
+}
+
+figcaption {
+  font-size: 12px; text-align: center;
+}
+
+section#featured-property p {
+  text-align: center; 
 }
